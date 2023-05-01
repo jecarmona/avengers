@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**  *esto es una propuesta **puedes* cambiar o mejorar los puntos y dejarlo en español*
+**Describe the bug**  *esto es una propuesta **puedes** cambiar o mejorar los puntos y dejarlo en español*
 A clear and concise description of what the bug is.
 
 **To Reproduce**

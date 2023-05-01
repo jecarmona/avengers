@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-* añade tu propio estilo para dejarnos descrita tu petición*
+*añade tu propio estilo para dejarnos descrita tu petición*

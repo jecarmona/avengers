@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-* puedes agregar los que desees y **borrar** los que o te parece de esta propuesta*
+*puedes agregar los que desees y **borrar** los que no te parece de esta propuesta*
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
